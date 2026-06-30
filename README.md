@@ -29,38 +29,66 @@ I am actively developing a scalable, full-stack blogging platform tailored for d
 
 ## 🛠 Tech Stack & Tools
 
-**Frontend:**
-* Next.js (App Router, SSR/SSG, API Routes)
-* React.js (Hooks)
-* TypeScript / JavaScript (ES6+)
-* Tailwind CSS, ShadcnUI, CSS Modules
-* TanStack Query
-* React Hook Form, Zod
+<!-- Основний стек (візуальні плашки) -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+</p>
 
-**Backend & Database:**
-* Convex
-* PostgreSQL, Prisma ORM
-* Node.js, Express.js
-* NextAuth.js (Auth.js)
-* Groq API, REST API
-
-**Architecture & Testing:**
-* Feature-Sliced Design (FSD)
-* Vitest, Playwright
-
-**Tools & DevOps:**
-* Git, GitHub
-* Vercel, CI/CD
-* Vite, Npm/Pnpm, Yarn
-* Figma
+<!-- Детальний опис стеку у 2 колонки -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <b>💻 Frontend</b>
+      <ul>
+        <li>Next.js (App Router, SSR/SSG)</li>
+        <li>React.js & TypeScript</li>
+        <li>Tailwind CSS, ShadcnUI</li>
+        <li>TanStack Query</li>
+        <li>React Hook Form, Zod</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>⚙️ Backend & Database</b>
+      <ul>
+        <li>Convex</li>
+        <li>PostgreSQL, Prisma ORM</li>
+        <li>Node.js, Express.js</li>
+        <li>NextAuth.js (Auth.js)</li>
+        <li>Groq API, REST API</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🏗 Architecture & Testing</b>
+      <ul>
+        <li>Feature-Sliced Design (FSD)</li>
+        <li>Vitest, Playwright</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>🛠 Tools & DevOps</b>
+      <ul>
+        <li>Git, GitHub, Vercel</li>
+        <li>Vite, Npm/Pnpm, Yarn</li>
+        <li>Figma</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StudzinskyiMark&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
   <br />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudzinskyiMark&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </div>
