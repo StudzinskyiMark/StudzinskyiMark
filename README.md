@@ -18,6 +18,7 @@
 ---
 
 ### ⚡ Current Focus: NextOne
+🚀 **Live Demo:** [NextOne](https://next-one-tech.vercel.app/)
 I am actively developing a scalable, full-stack blogging platform tailored for developers. 
 - **Architecture:** Built from the ground up using **Next.js (App Router)** and **TypeScript**, strictly adhering to FSD principles.
 - **Real-Time Data:** Leveraging **Convex** for live presence tracking and instant comment synchronization.
@@ -26,19 +27,40 @@ I am actively developing a scalable, full-stack blogging platform tailored for d
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-</p>
+## 🛠 Tech Stack & Tools
+
+**Frontend:**
+* Next.js (App Router, SSR/SSG, API Routes)
+* React.js (Hooks)
+* TypeScript / JavaScript (ES6+)
+* Tailwind CSS, ShadcnUI, CSS Modules
+* TanStack Query
+* React Hook Form, Zod
+
+**Backend & Database:**
+* Convex
+* PostgreSQL, Prisma ORM
+* Node.js, Express.js
+* NextAuth.js (Auth.js)
+* Groq API, REST API
+
+**Architecture & Testing:**
+* Feature-Sliced Design (FSD)
+* Vitest, Playwright
+
+**Tools & DevOps:**
+* Git, GitHub
+* Vercel, CI/CD
+* Vite, Npm/Pnpm, Yarn
+* Figma
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StudzinskyiMark&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
+</div>
